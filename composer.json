@@ -3,7 +3,7 @@
   "type": "library",
   "description": "PHP Adapter for Vertica Database from HP. Uses php ODBC extension.",
   "license": "MIT",
-  "homepage": "https://github.com/skatrych/vertica-php-adapter",
+  "homepage": "https://github.com/Westwing-Home-and-Living/vertica-php-adapter",
   "authors": [
     {
       "name": "Sergii Katrych",
